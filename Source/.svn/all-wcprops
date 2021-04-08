@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/276/avr/freertos-atmega644-template/trunk/Source
+END
+queue.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/276/avr/freertos-atmega644-template/trunk/Source/queue.c
+END
+tasks.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/276/avr/freertos-atmega644-template/trunk/Source/tasks.c
+END
+croutine.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/276/avr/freertos-atmega644-template/trunk/Source/croutine.c
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/276/avr/freertos-atmega644-template/trunk/Source/readme.txt
+END
+list.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/276/avr/freertos-atmega644-template/trunk/Source/list.c
+END

@@ -1,0 +1,42 @@
+8
+
+dir
+276
+https://workspace.gonium.net/svn/avr/freertos-atmega644-template/trunk/Source/portable/GCC/ATMegax44
+https://workspace.gonium.net/svn
+
+
+
+2008-08-10T15:18:41.131148Z
+276
+md
+
+
+svn:special svn:externals svn:needs-lock
+
+port.c
+file
+
+
+
+
+2008-08-10T15:16:10.000000Z
+77489b2032c5e2ecc322267e6d490b98
+2008-08-10T15:18:41.131148Z
+276
+md
+has-props
+
+portmacro.h
+file
+
+
+
+
+2008-08-10T15:16:10.000000Z
+f35655e88bd6544bad354a3a9b3765ea
+2008-08-10T15:18:41.131148Z
+276
+md
+has-props
+
